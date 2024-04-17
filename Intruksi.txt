@@ -1,0 +1,14 @@
+Hasil Technical Tes Azmiy Thufail di PT Esbi Batara Niaga Indonesia
+
+Cara menjalankan Aplikasi: 
+- Download file .rar atau .zip lalu extract ke dalam folder htdocs (XAMPP) atau www (Laragon)
+- Jalankan lokal server (XAMPP/Laragon)
+- Buka browser dan ketikkan http://localhost/database-tes_oshs
+
+Ketentuan: 
+- Aplikasi yang dikerjakan sudah sesuai dengan ketentuan yang diberikan perusahaan
+- Aplikasi menggunakan Bootstrap untuk styling
+- Menggunakan metode MVC sederhana buatan sendiri
+- Menggunakan PHP Native tanpa framework
+- Memiliki fitur Input, Edit, dan Hapus
+- Hanya menggunakan 1 halaman untuk melakukan fitur CRUD

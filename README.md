@@ -8,7 +8,7 @@ Technical Test from PT Esbi Batara Niaga Indonesia
 
 #### Usage/Penggunaan Aplikasi
 
-- extract file .rar lalu masukan kedalam folder htdocs (XAMPP) atau www (Laragon)
+- extract file ```.rar``` atau ```.zip``` lalu masukan kedalam folder htdocs (XAMPP) atau www (Laragon)
 
 - jalankan server lokal (XAMPP/Laragon) dan buka aplikasi di url [http://localhost/database-tes_oshs/](http://localhost/database-tes_oshs/)
 

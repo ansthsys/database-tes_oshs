@@ -4,11 +4,13 @@ Technical Test from PT Esbi Batara Niaga Indonesia
 
 #### Requirement
 
-![requirements](image.png)
+- Mengaktifkan extension agar SQLite bisa berjalan dengan cara menghapus komen/tanda ';' pada baris extension=pdo_sqlite dan extension=sqlite3 di file php.ini 
+
+- ![requirements](image.png)
 
 #### Usage/Penggunaan Aplikasi
 
-- extract file ```.rar``` atau ```.zip``` lalu masukan kedalam folder htdocs (XAMPP) atau www (Laragon)
+- extract file `.rar` atau `.zip` lalu masukan kedalam folder htdocs (XAMPP) atau www (Laragon)
 
 - jalankan server lokal (XAMPP/Laragon) dan buka aplikasi di url [http://localhost/database-tes_oshs/](http://localhost/database-tes_oshs/)
 

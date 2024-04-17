@@ -2,6 +2,7 @@ Hasil Technical Tes Azmiy Thufail di PT Esbi Batara Niaga Indonesia
 
 Cara menjalankan Aplikasi: 
 - Download file .rar atau .zip lalu extract ke dalam folder htdocs (XAMPP) atau www (Laragon)
+- Mengaktifkan SQLite dengan cara menghapus komen/tanda ';' pada baris extension=pdo_sqlite dan extension=sqlite3 di file php.ini
 - Jalankan lokal server (XAMPP/Laragon)
 - Buka browser dan ketikkan http://localhost/database-tes_oshs
 
